@@ -89,7 +89,3 @@ class Person
 
 end
 
-fernando = Person.new("Fernando", 150, 9, 11)
-puts fernando.work_out
-puts fernando.happiness 
-puts fernando.hygiene
